@@ -25,6 +25,21 @@ Final-semester Computer Systems Engineering student (UAA) building full-stack sy
 
 <br>
 
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=AlexCedeno-dev&show_icons=true&theme=transparent&hide_border=true&title_color=943E17&icon_color=943E17&text_color=333333" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexCedeno-dev&theme=transparent&hide_border=true&ring=943E17&fire=943E17&currStreakLabel=943E17" />
+
+</div>
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexCedeno-dev&layout=compact&theme=transparent&hide_border=true&title_color=943E17&text_color=333333" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AlexCedeno-dev/AlexCedeno-dev/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 ### Let's connect
 
 📄 [CV / Portfolio](https://alexcedeno-dev.github.io/Alex-Cede-o-CV/) · 📧 cedenoalejandro0612@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/edgar-alejandro-cede%C3%B1o-suarez-b55660331/)
