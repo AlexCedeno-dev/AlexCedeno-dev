@@ -13,7 +13,7 @@ Final-semester Computer Systems Engineering student at UAA, building full-stack 
 | | |
 |---|---|
 | **Currently working at** | Foresight, as a Systems Development Trainee |
-| **Also working with** | Embedded systems (ESP32, ESP8266, Arduino) |
+| **Open to** | Freelance projects, collabs & junior dev roles |
 | **Certified in** | AWS Academy Cloud Foundations |
 
 ### Featured projects
@@ -29,6 +29,7 @@ Final-semester Computer Systems Engineering student at UAA, building full-stack 
 </div>
 
 <br>
+*Also experienced with embedded systems: ESP32, ESP8266, and Arduino IDE.*
 
 <div align="center">
 
