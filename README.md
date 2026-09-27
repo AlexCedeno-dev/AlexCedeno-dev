@@ -1,6 +1,6 @@
 ### Hi, I'm Alex 👋
 
-Final-semester Computer Systems Engineering student (UAA) building full-stack systems — from web dashboards to embedded IoT devices.
+Final-semester Computer Systems Engineering student (UAA) building full-stack systems, from web dashboards to embedded IoT devices.
 
 - 🔭 Currently a Systems Development Trainee @ Foresight
 - 🛠️ Stack: React · React Native · Node.js/Express · MySQL · MongoDB · Firebase · Docker · TypeScript
