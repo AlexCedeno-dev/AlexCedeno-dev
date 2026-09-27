@@ -36,9 +36,6 @@ Final-semester Computer Systems Engineering student (UAA) building full-stack sy
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCedeno-dev&layout=compact&theme=transparent&hide_border=true&title_color=943E17&text_color=333333" />
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AlexCedeno-dev&theme=flat&no-frame=true&margin-w=10&column=6" />
-</div>
 
 ### Let's connect
 
